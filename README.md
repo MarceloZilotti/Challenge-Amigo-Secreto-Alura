@@ -1,4 +1,4 @@
-# Challenge Amigo Secreto Alura
+
 <h1 align="center"> Challenge Amigo Secreto Alura </h1>
 <p align="center">
   <img src="https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png" alt="One - Oracle Next Education">
@@ -8,8 +8,6 @@
     alt="Alura" width="130">
 </p>
 
-
-[Challenge Amigo Secreto Alura](https://challenge-amigo-secreto-alura-rho.vercel.app)
 
 
 # 🎁✨ Sorteador de Amigo Secreto ✨🎁  
@@ -27,3 +25,6 @@ Olá, amigo(a)! 😊💖 Seja bem-vindo ao nosso **Sorteador de Amigo Secreto**!
 💡 **Dica:** Você pode adicionar quantos amigos quiser, quanto mais, mais divertido! 😍💞  
 
 🔮 **Que a sorte esteja ao seu favor!** 🍀💫  
+
+
+Para jogar é só clicar: [Challenge Amigo Secreto Alura](https://challenge-amigo-secreto-alura-rho.vercel.app)
