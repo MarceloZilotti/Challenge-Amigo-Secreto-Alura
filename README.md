@@ -10,3 +10,20 @@
 
 
 [Challenge Amigo Secreto Alura](https://challenge-amigo-secreto-alura-rho.vercel.app)
+
+
+# 🎁✨ Sorteador de Amigo Secreto ✨🎁  
+
+Olá, amigo(a)! 😊💖 Seja bem-vindo ao nosso **Sorteador de Amigo Secreto**! 🏆🎉  
+
+## Como funciona? 🤔👇  
+1️⃣ **Digite os nomes** dos participantes do Amigo Secreto no campo indicado. 📝💌  
+2️⃣ Clique no botão **"ADICIONAR"** ➕ para incluir cada amigo na lista. 🧑‍🤝‍🧑👫👭  
+3️⃣ Depois que todos os amigos estiverem na lista, aperte o botão **"SORTEAR AMIGO"** 🎲🎯  
+4️⃣ A página irá **sortear aleatoriamente** um Amigo Secreto para você! 🎊🎁  
+
+### Agora é só se divertir e descobrir quem será seu amigo secreto! 🤭🎀  
+
+💡 **Dica:** Você pode adicionar quantos amigos quiser, quanto mais, mais divertido! 😍💞  
+
+🔮 **Que a sorte esteja ao seu favor!** 🍀💫  
