@@ -1,6 +1,12 @@
 # Challenge Amigo Secreto Alura
 <h1 align="center"> Challenge Amigo Secreto Alura </h1>
 <p align="center">
-  <img src="https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png" alt="Descrição da imagem">
+  <img src="https://cdn2.gnarususercontent.com.br/1/1221562/b6256fa6-5fde-4cdd-a4a3-d33ebc90bb6c.png" alt="One - Oracle Next Education">
 </p>
-![logo da Alura]([url da imagem gerado pelo serviço de hospedagem ou GitHub](https://github.com/MarceloZilotti/Challenge-Amigo-Secreto-Alura/blob/main/assets/logo-alura.svg))
+<p align="center">
+  <img src="https://www.alura.com.br/assets/img/alura-share.1636535197.png" 
+    alt="Alura" width="130">
+</p>
+
+
+[Challenge Amigo Secreto Alura](https://challenge-amigo-secreto-alura-rho.vercel.app)
